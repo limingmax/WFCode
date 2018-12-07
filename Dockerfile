@@ -15,6 +15,6 @@ RUN chmod -R 777 /service/trend/src/start.sh
 
 RUN pip install -r /service/trend/src/requirements.txt
 
-CMD ["/service/threshold/src/start.sh"]
+CMD ["/service/trend/src/start.sh"]
 
 ENTRYPOINT tail -f /dev/null
