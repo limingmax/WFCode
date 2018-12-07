@@ -1,0 +1,16 @@
+certifi==2018.10.15
+kafka-python==1.4.4
+numpy==1.15.4
+pandas==0.23.4
+patsy==0.5.1
+Pillow==5.3.0
+ply==3.11
+python-dateutil==2.7.5
+pytz==2018.7
+redis==3.0.1
+scipy==1.1.0
+six==1.11.0
+statsmodels==0.9.0
+configparser==3.5.0
+thriftpy==0.3.9
+happybase==1.1.0
